@@ -1,7 +1,7 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
-}
+} */
 nav{
     background-color: #e0ebe8f8;
     height: fit-content;
@@ -22,7 +22,7 @@ nav{
     padding-top: 20px;
     border-radius: 50%;
     /* background-color: rgba(251, 249, 249, 0.924); */
-    background-color: #e0ebe8f8;
+    /* background-color: #e0ebe8f8; */
     /* margin-top: 20px; */
 }
 .nav-list {
