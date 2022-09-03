@@ -2,6 +2,10 @@
     padding: 0;
     margin: 0;
 } */
+@font-face {
+    font-family:  fantasy2;
+    src: url(../fonts/fantasy2.ttf);
+}
 nav{
     background-color: #e0ebe8f8;
     height: fit-content;
@@ -103,7 +107,7 @@ header{
 }
 .heading-text{
     text-align: center;
-    font-family: fantasy;
+    font-family: fantasy2;
     color: #45b29a;
 }
 .heading-text h1{
